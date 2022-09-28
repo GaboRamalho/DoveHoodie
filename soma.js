@@ -1,4 +1,4 @@
-numero = 10000;
+numero = notnull;
 
 function less() {
   numero--;
@@ -6,7 +6,7 @@ function less() {
 }
 
 function more() {
-  numero++;
+  numero = numero+50;
   setValue(numero);
 }
 
