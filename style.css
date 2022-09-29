@@ -6,3 +6,13 @@ h2{
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+    padding: 2px 1em 5px 1em;
+}
+
+.pannel-heading{
+    color: #0000af;
+}
