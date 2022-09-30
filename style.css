@@ -6,3 +6,7 @@ h2{
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.img-fluid{
+    width: 100%;
+    height: auto;
+}
